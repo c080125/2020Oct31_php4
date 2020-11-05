@@ -1,0 +1,23 @@
+#wrap {
+    width: 100%;
+};
+
+#form_div {
+    margin: 0px auto;
+    display: flex;
+    justify-content: center;
+};
+
+#form {
+    width: 100%;
+}
+
+#table {
+    width: 100%;
+    table-layout: fixed;
+    background: rgb(141, 218, 231);
+    border-style: solid;
+    border-color: black;
+    word-break: break-all;
+    word-wrap: break-all;
+};
